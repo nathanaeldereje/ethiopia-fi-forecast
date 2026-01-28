@@ -1,0 +1,37 @@
+# ------------------------------------------------------------------
+# Basics & Utility (Required for Project Setup & Testing)
+# ------------------------------------------------------------------
+pytest==8.3.3            # For running the unit tests in .github/workflows
+python-dotenv==1.0.1     # For managing environment variables (best practice)
+
+# ------------------------------------------------------------------
+# Task 1: Data Exploration and Enrichment
+# ------------------------------------------------------------------
+pandas==2.2.3            # Core data manipulation
+numpy==1.26.4            # Numerical operations (pinned for broad compatibility)
+openpyxl==3.1.5          # Required to read Excel files (for supplementary data enrichment)
+requests==2.32.3         # For fetching web data or APIs during enrichment
+
+# ------------------------------------------------------------------
+# Task 2: Exploratory Data Analysis (EDA)
+# ------------------------------------------------------------------
+matplotlib==3.9.2      # Basic plotting
+seaborn==0.13.2        # Statistical visualizations (Heatmaps, correlations)
+jupyter==1.1.1         # (Optional) If not using VS Code native notebooks
+
+# ------------------------------------------------------------------
+# Task 3: Event Impact Modeling
+# ------------------------------------------------------------------
+# scipy==1.14.1          # Statistical functions
+# statsmodels==0.14.4    # OLS regression and time series analysis (CRITICAL for this project)
+
+# ------------------------------------------------------------------
+# Task 4: Forecasting Access and Usage
+# ------------------------------------------------------------------
+# scikit-learn==1.5.2    # Machine learning pipelines and regression models
+
+# ------------------------------------------------------------------
+# Task 5: Dashboard Development
+# ------------------------------------------------------------------
+# streamlit==1.40.1      # The web application framework
+# plotly==5.24.1         # Interactive charts for the dashboard
