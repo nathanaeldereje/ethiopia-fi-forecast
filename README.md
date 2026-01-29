@@ -109,9 +109,9 @@ ethiopia-fi-forecast/
 | Phase | Task Description | Status |
 | :--- | :--- | :--- |
 | **0. Setup** | Project Structure, Git, CI/CD, and Environment Setup | ✅ Completed |
-| **1. Enrich** | Data Enrichment (Task 1) - Adding external indicators | 🚧 In Progress |
+| **1. Enrich** | Data Enrichment (Task 1) - Adding external indicators | ✅ Completed |
 | **2. Explore** | EDA (Task 2) - Visualizing the "Access-Usage" Gap | ⏳ Pending |
-| **3. Model** | Impact Modeling (Task 3) - Quantifying event effects | ⏳ Pending |
+| **3. Model** | Impact Modeling (Task 3) - Quantifying event effects | 🚧 In Progress |
 | **4. Forecast** | Projections (Task 4) - Predicting 2025-2027 outcomes | ⏳ Pending |
 | **5. Visualize** | Dashboard (Task 5) - Streamlit App Development | ⏳ Pending |
 
@@ -123,4 +123,4 @@ ethiopia-fi-forecast/
 *   **Dashboard:** *[Insert Screenshot of Streamlit App]*
 
 ---
-*Date: January 28, 2026*
+*Date: January, 2026*
