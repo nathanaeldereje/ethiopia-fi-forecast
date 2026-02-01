@@ -22,8 +22,8 @@ jupyter==1.1.1         # (Optional) If not using VS Code native notebooks
 # ------------------------------------------------------------------
 # Task 3: Event Impact Modeling
 # ------------------------------------------------------------------
-# scipy==1.14.1          # Statistical functions
-# statsmodels==0.14.4    # OLS regression and time series analysis (CRITICAL for this project)
+scipy==1.14.1          # Statistical functions
+statsmodels==0.14.4    # OLS regression and time series analysis (CRITICAL for this project)
 
 # ------------------------------------------------------------------
 # Task 4: Forecasting Access and Usage
