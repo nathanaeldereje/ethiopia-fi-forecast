@@ -33,5 +33,5 @@ statsmodels==0.14.4    # OLS regression and time series analysis (CRITICAL for t
 # ------------------------------------------------------------------
 # Task 5: Dashboard Development
 # ------------------------------------------------------------------
-# streamlit==1.40.1      # The web application framework
-# plotly==5.24.1         # Interactive charts for the dashboard
+streamlit==1.40.1      # The web application framework
+plotly==5.24.1         # Interactive charts for the dashboard

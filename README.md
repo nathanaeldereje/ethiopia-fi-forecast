@@ -1,7 +1,7 @@
 # 📈 Forecasting Financial Inclusion in Ethiopia
 **Project:** 10 Academy: Artificial Intelligence Mastery - Week 10 Challenge  
 **Role:** Data Scientist (Selam Analytics)  
-**Status:** 🚧 In Progress
+**Status:** ✅ Completed
 
 ## Project Overview
 This project empowers **Selam Analytics** and its consortium of stakeholders (National Bank of Ethiopia, Mobile Operators, DFIs) to track and predict the trajectory of digital financial transformation in Ethiopia. By integrating historical survey data with event-based modeling, we aim to forecast financial inclusion outcomes.
@@ -104,16 +104,16 @@ ethiopia-fi-forecast/
     *   **Run:** `streamlit run dashboard/app.py`
     *   *Key Output:* Interactive web app displaying P2P trends, forecasts, and scenario selectors.
 
-## 🚀 Project Progress & Roadmap (as of January 28, 2026)
+## 🚀 Project Progress & Roadmap 
 
 | Phase | Task Description | Status |
 | :--- | :--- | :--- |
 | **0. Setup** | Project Structure, Git, CI/CD, and Environment Setup | ✅ Completed |
 | **1. Enrich** | Data Enrichment (Task 1) - Adding external indicators | ✅ Completed |
-| **2. Explore** | EDA (Task 2) - Visualizing the "Access-Usage" Gap | ⏳ Pending |
-| **3. Model** | Impact Modeling (Task 3) - Quantifying event effects | 🚧 In Progress |
-| **4. Forecast** | Projections (Task 4) - Predicting 2025-2027 outcomes | ⏳ Pending |
-| **5. Visualize** | Dashboard (Task 5) - Streamlit App Development | ⏳ Pending |
+| **2. Explore** | EDA (Task 2) - Visualizing the "Access-Usage" Gap | ✅ Completed |
+| **3. Model** | Impact Modeling (Task 3) - Quantifying event effects | ✅ Completed |
+| **4. Forecast** | Projections (Task 4) - Predicting 2025-2027 outcomes | ✅ Completed |
+| **5. Visualize** | Dashboard (Task 5) - Streamlit App Development | ✅ Completed |
 
 ## 📸 Visuals
 *(Placeholders for future outputs)*
@@ -123,4 +123,4 @@ ethiopia-fi-forecast/
 *   **Dashboard:** *[Insert Screenshot of Streamlit App]*
 
 ---
-*Date: January, 2026*
+*Date: February 2, 2026*
